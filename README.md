@@ -4,7 +4,7 @@
 
 <dl>
 
-<dt> Componente a comprar: </dt>
+<dt> Componentes a comprar: </dt>
 <dd> 
 <li type="circle">	Led rojo </li>
 <li type="circle">	1 Resistencia de 300 Ohmios </li>
@@ -18,7 +18,7 @@
 </dd>
 </d1>
 
-<h4> Tenéis fotos del resultado de la placa</h4>
+<h4> Tenéis fotos del resultado de la placa en el repositorio</h4>
 
 
 <p> Especial agradecimiento a los tutoriales de "TUTOELECTRO" & "RINCÓN INGENIERIL" </p>
