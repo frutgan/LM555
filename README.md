@@ -18,8 +18,7 @@
 </dd>
 </d1>
 
-<h4> El resultado es el siguiente: </h4>
-<img src="placa1.jpg">
-<img src="placa2.jpg">
+<h4> Tenéis fotos del resultado de la placa</h4>
+
 
 <p> Especial agradecimiento a los tutoriales de "TUTOELECTRO" & "RINCÓN INGENIERIL" </p>
